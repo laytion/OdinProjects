@@ -1,0 +1,46 @@
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+    margin-right: 40px;
+    font-family: Arial;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+
+.topbar{
+
+}
+
+.below-search-boxes{
+    font-family: Arial;
+    background-color: rgb(245, 245, 245);
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.below-search-boxes:hover{
+    border-style: solid;
+    border-width: 0.2px;
+    border-color: rgb(185, 185, 185); 
+}
+
+.google-search{
+
+}
+
+.im-feeling-lucky{
+
+}
+
+.country{
+    font-family: Arial;
+}
