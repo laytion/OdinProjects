@@ -90,11 +90,20 @@ footer{
 }
 
 .thailand{
-    margin-top: 20px 20px;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
 }
 
 .lists{
     display:flex;
     flex-direction:row;
     justify-content: space-between;
+    border-top: 1px solid lightgrey;
+
+}
+
+.right-list{
+    margin-right: 30px;
 }
